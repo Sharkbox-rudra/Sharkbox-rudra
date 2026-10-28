@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Skills
+<h2>🛠️ Skills</h2>
 
 <details open>
 <summary><b>💬 Languages I Know</b></summary>
@@ -62,18 +62,18 @@
 
 ---
 
-### 📈 Learning Progress
+<h2>📈 Learning Progress</h2>
 | Topic | Progress |
 |-------|----------|
-| 🌐 Web Development | ![20%](https://geps.dev/progress/40) |
+| 🌐 Web Development | ![20%](https://geps.dev/progress/20) |
 | 🧠 Data Structures & Algorithms | ![20%](https://geps.dev/progress/35) |
-| 📊 Data Analytics | ![40%](https://geps.dev/progress/25) |
+| 📊 Data Analytics | ![40%](https://geps.dev/progress/45) |
 
 *(Change the numbers as you improve!)*
 
 ---
 
-### 🧩 DSA Journey
+<h2>🧩 DSA Journey</h2>
 <details>
 <summary><b>Topics covered</b></summary>
 
@@ -87,8 +87,7 @@
 </details>
 
 ---
-
-### 🚀 My Projects
+<h2>🚀 My Projects</h2>
 *Built with Python while learning. Full-stack projects are coming soon!*
 
 <details open>
@@ -115,22 +114,22 @@ Generates strong random passwords based on chosen length and characters. · **Te
 Currently learning web development to build my first full-stack project.
 </details>
 
-### 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sharkbox-rudra&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharkbox-rudra&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharkbox-rudra&theme=radical" />
 </p>
 
 ---
-### 🧩 LeetCode Stats
+<h2>🧩 LeetCode Stats</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/[coderrudra07]?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/coderrudra07?theme=dark&font=Karma&ext=heatmap" />
 </p>
-### 🎯 Goals
+<h2>🎯 Goals</h2>
 - [x] Learn the basics of Python, C, C++, HTML & CSS
 - [ ] Learn JavaScript and build a React project
 - [ ] Solve 200+ DSA problems

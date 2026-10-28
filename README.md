@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sharkbox-rudra&label=Profile+views&color=blue">
 </p>
 <h2>🙋 About Me</h2>
-- 🎓 CSE(AI-ML) / SANAKA EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS / 2029
+- <p>🎓 CSE(AI-ML) / SANAKA EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS / 2029</p>
 - 🌱 Currently learning: **Web Development, DSA, Data Analytics**
 - 💻 Comfortable with: **Python, C, C++, HTML, CSS**
 - 🤝 Open to collaborating on: **beginner-friendly web & data projects**

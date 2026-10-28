@@ -129,7 +129,7 @@ Currently learning web development to build my first full-stack project.
   <img src="https://leetcard.jacoblin.cool/32muTqxeLK?theme=dark&font=Karma&ext=heatmap" />
 </p>
 <h2>🎯 Goals</h2>
-<p> [x] Learn the basics of Python, C, C++, HTML & CSS</p>
+<p> <mark>[x] Learn the basics of Python, C, C++, HTML & CSS</p></mark>
 <p> [ ] Learn JavaScript and build a React project</p>
 <p> [ ] Solve 200+ DSA problems</p>
 <p> [ ] Complete a data analysis project with a real dataset</p>

@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/rudra-prasad-gorai-0927b239b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:rudraprasadgorai88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/coderrudra07"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"></a>
+  <a href="https://leetcode.com/u/32muTqxeLK/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"></a>
   <img src="https://komarev.com/ghpvc/?username=Sharkbox-rudra&label=Profile+views&color=blue">
 </p>
 <h2>🙋 About Me</h2>
@@ -63,13 +63,12 @@
 ---
 
 <h2>📈 Learning Progress</h2>
+
 | Topic | Progress |
 |-------|----------|
-| 🌐 Web Development | !(https://geps.dev/progress/20) |
-| 🧠 Data Structures & Algorithms | ![20%](https://geps.dev/progress/35) |
-| 📊 Data Analytics | ![40%](https://geps.dev/progress/45) |
-
-*(Change the numbers as you improve!)*
+| 🌐 Web Development | ![](https://img.shields.io/badge/progress-20%25-blue) |
+| 🧠 Data Structures & Algorithms | ![](https://img.shields.io/badge/progress-35%25-green) |
+| 📊 Data Analytics | ![](https://img.shields.io/badge/progress-45%25-orange) |
 
 ---
 

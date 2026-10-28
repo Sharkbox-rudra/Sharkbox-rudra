@@ -65,7 +65,7 @@
 <h2>📈 Learning Progress</h2>
 | Topic | Progress |
 |-------|----------|
-| 🌐 Web Development | ![20%](https://geps.dev/progress/20) |
+| 🌐 Web Development | !(https://geps.dev/progress/20) |
 | 🧠 Data Structures & Algorithms | ![20%](https://geps.dev/progress/35) |
 | 📊 Data Analytics | ![40%](https://geps.dev/progress/45) |
 

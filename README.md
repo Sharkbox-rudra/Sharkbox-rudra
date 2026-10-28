@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm [Rudra]</h1>
+<h1 align="center">Hi 👋, I'm Rudra</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Learning+Web+Development;Practicing+Data+Structures+%26+Algorithms;Exploring+Data+Analytics;Open+to+collaborate!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rudra-prasad-gorai-0927b239b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:[rudraprasadgorai88@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/[coderrudra07]"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"></a>
-  <img src="https://komarev.com/ghpvc/?username=[Sharkbox-rudra]&label=Profile+views&color=blue">
+  <a href="mailto:rudraprasadgorai88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/coderrudra07"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"></a>
+  <img src="https://komarev.com/ghpvc/?username=Sharkbox-rudra&label=Profile+views&color=blue">
 </p>
-### 🙋 About Me
-- 🎓 [CSE(AI-ML) / SANAKA EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS / 2029]
+<h2>🙋 About Me</h2>
+- 🎓 CSE(AI-ML) / SANAKA EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS / 2029
 - 🌱 Currently learning: **Web Development, DSA, Data Analytics**
 - 💻 Comfortable with: **Python, C, C++, HTML, CSS**
 - 🤝 Open to collaborating on: **beginner-friendly web & data projects**

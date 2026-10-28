@@ -126,13 +126,13 @@ Currently learning web development to build my first full-stack project.
 ---
 <h2>🧩 LeetCode Stats</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/coderrudra07?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/32muTqxeLK?theme=dark&font=Karma&ext=heatmap" />
 </p>
 <h2>🎯 Goals</h2>
-- [x] Learn the basics of Python, C, C++, HTML & CSS
-- [ ] Learn JavaScript and build a React project
-- [ ] Solve 200+ DSA problems
-- [ ] Complete a data analysis project with a real dataset
-- [ ] Contribute to an open-source project
+<p> [x] Learn the basics of Python, C, C++, HTML & CSS</p>
+<p> [ ] Learn JavaScript and build a React project</p>
+<p> [ ] Solve 200+ DSA problems</p>
+<p> [ ] Complete a data analysis project with a real dataset</p>
+<p> [ ] Contribute to an open-source project</p>
 
-<p align="center"><i>⭐ If you like my work, drop a star!</i></p>
+<p align="center"><em>⭐ If you like my work, drop a star!</em></p>
